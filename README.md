@@ -18,9 +18,11 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 - OOP
 - Knowlegdeable in database management and SQL
 - Experinced in web development using HTML, PHP and CSS
+
 #### Modelling: 
 - UML
 - Tableau
+- 
 #### Miscellaneous
 - Strong problem-solving and analytical skills
 - Quick learner with a passion for continuos improvement
