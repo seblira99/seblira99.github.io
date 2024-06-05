@@ -4,7 +4,7 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 - BSc. Humanities and Techology in Computer science and Informatics
 ## Certificates: 
 - <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">Azure AI certificate </a>
-""
+<br/>
 ### Technical Skills:
 - Java
 - SQL
@@ -13,18 +13,20 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 
 
 ### Compentences: 
+<br/>
 #### Software development:
 - Algorithms
 - Data Structure
 - OOP
 - Knowlegdeable in database management and SQL
 - Experinced in web development using HTML, PHP and CSS
-  ""
+<br/>
   
 #### Modelling: 
 - UML
 - Tableau
-""
+
+<br/>
 #### Miscellaneous
 - Strong problem-solving and analytical skills
 - Quick learner with a passion for continuos improvement
