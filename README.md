@@ -22,7 +22,7 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 #### Modelling: 
 - UML
 - Tableau
-####
+#
 #### Miscellaneous
 - Strong problem-solving and analytical skills
 - Quick learner with a passion for continuos improvement
