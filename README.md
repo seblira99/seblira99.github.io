@@ -35,7 +35,7 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 
 ## Projects
 - <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">SD course portfolio</a>
-- <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">IDS course project</a>
+- <a href = "https://github.com/seblira99/IDS-course">IDS course project</a>
 - <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">Creature evolution project</a>
 
 ## Work experience:
