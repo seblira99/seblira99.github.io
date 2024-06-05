@@ -34,9 +34,9 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 - Proficient in technical documentation and report writing
 
 ## Projects
-- Project 1 tilføj titel og hyperlink!
-- Project 2 
-- Project 3
+- <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">SD course portfolio</a>
+- <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">IDS course project</a>
+- <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">Creature evolution project</a>
 
 ## Work experience:
 ### Salesperson @ 7-eleven Copenhagen NV, 2023/now 
