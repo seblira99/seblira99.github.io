@@ -3,7 +3,7 @@ I am a recent gratuade that enjoy and have a big passion for technology and i ha
 ## Education
 - BSc. Humanities and Techology in Computer science and Informatics
 ## Certificates: 
-- <a href = "https://github.com/seblira99/SoftwareDevelopmentProject">Azure AI certificate </a>
+- <a href = "https://github.com/seblira99/link_til_certifikat">Azure AI certificate </a>
 <br/>
 ### Technical Skills:
 - Java
